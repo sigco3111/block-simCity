@@ -1,0 +1,6 @@
+{
+  "name": "블록 심시티 빌더",
+  "description": "심시티 스타일의 3D 도시 건설 게임입니다. 사용자는 그리드 위에 다양한 유형의 블록 스타일 건물을 배치할 수 있습니다. 이 게임은 자원 관리(자금, 전력) 기능을 갖추고 있으며 인구 및 행복도와 같은 도시 통계를 추적합니다. React, Three.js, Tailwind CSS로 제작되었습니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
