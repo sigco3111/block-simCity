@@ -1,6 +1,8 @@
 
 # 블록 심시티 빌더 (Block SimCity Builder)
 
+실행 주소 : https://dev-canvas-pi.vercel.app/
+
 ##  목차
 
 1.  [프로젝트 소개](#1-프로젝트-소개)
