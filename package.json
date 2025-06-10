@@ -1,5 +1,5 @@
 {
-  "name": "블록-심시티-빌더",
+  "name": "block-simcity-builder",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "three": "^0.177.0",
-    "three/addons": "0.165.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
