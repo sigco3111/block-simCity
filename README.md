@@ -1,7 +1,9 @@
 
 # 블록 심시티 빌더 (Block SimCity Builder)
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/block-simCity/
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ##  목차
 
