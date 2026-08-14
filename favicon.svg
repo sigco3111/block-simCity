@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 배경 -->
+  <rect x="0" y="0" width="64" height="64" rx="8" fill="#3b82f6"/>
+  
+  <!-- 빌딩 블록들 -->
+  <rect x="10" y="40" width="12" height="18" fill="#1e3a8a"/>
+  <rect x="26" y="30" width="12" height="28" fill="#2563eb"/>
+  <rect x="42" y="24" width="12" height="34" fill="#1e3a8a"/>
+  
+  <!-- 건물 창문들 -->
+  <rect x="13" y="44" width="6" height="4" fill="#93c5fd"/>
+  <rect x="13" y="50" width="6" height="4" fill="#93c5fd"/>
+  
+  <rect x="29" y="34" width="6" height="4" fill="#93c5fd"/>
+  <rect x="29" y="40" width="6" height="4" fill="#93c5fd"/>
+  <rect x="29" y="46" width="6" height="4" fill="#93c5fd"/>
+  
+  <rect x="45" y="28" width="6" height="4" fill="#93c5fd"/>
+  <rect x="45" y="34" width="6" height="4" fill="#93c5fd"/>
+  <rect x="45" y="40" width="6" height="4" fill="#93c5fd"/>
+  <rect x="45" y="46" width="6" height="4" fill="#93c5fd"/>
+  
+  <!-- 도로 -->
+  <rect x="8" y="58" width="48" height="4" fill="#475569"/>
+  <rect x="10" y="59" width="4" height="2" fill="#f8fafc"/>
+  <rect x="18" y="59" width="4" height="2" fill="#f8fafc"/>
+  <rect x="26" y="59" width="4" height="2" fill="#f8fafc"/>
+  <rect x="34" y="59" width="4" height="2" fill="#f8fafc"/>
+  <rect x="42" y="59" width="4" height="2" fill="#f8fafc"/>
+  <rect x="50" y="59" width="4" height="2" fill="#f8fafc"/>
+</svg> 
